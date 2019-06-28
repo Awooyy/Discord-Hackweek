@@ -4,4 +4,18 @@ Character recognition is thanks to the EAST Optical Character Recognition Librar
 Object recognition thanks to TensorFlow inception library
 Color manipulation and facial recognition thanks to OpenCV.
 
-Use help command for commands
+# Examples
+## Object Detection:
+![Object Detection](https://i.imgur.com/aicPVuJ.png)
+## Text Detection:
+![Text Detection](https://i.imgur.com/0qUHMaN.png)
+## Face Detection:
+![Face Detection](https://i.imgur.com/2fZAeWy.png)
+## RGB Hot:
+![RGB Hot](https://i.imgur.com/w8slCOF.png)
+## RBG Cold:
+![RGB Cold](https://i.imgur.com/p2YBGql.png)
+## Grayscale:
+![Grayscale](https://i.imgur.com/wkvePNV.png)
+## Dreamify:
+![Dreamify](https://i.imgur.com/rgcD8f8.png)
